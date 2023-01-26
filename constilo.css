@@ -3,8 +3,8 @@ body {
     background-image: url("images/cafecito2.webp");
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: absolute;
-    color: rgb(75, 167, 90);
+    /* background-position: absolute; */
+    color: rgb(58, 31, 1);
     background-color: rgb(214, 203, 40);
 }  
 #ache11
