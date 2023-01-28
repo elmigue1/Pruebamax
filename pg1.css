@@ -35,7 +35,8 @@ button {
     border: 2px solid rgb(0, 0, 0);
     padding: 30px;
     height: auto;
-    width: 22vh;
+    width: 24vh;
     margin: 10px;
     border-radius: 10px;
+    white-space: nowrap;
 }
