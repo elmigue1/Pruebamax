@@ -1,6 +1,10 @@
 
 body {
     margin: 0;
+    background-color: rgb(51, 152, 192);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .button-container-div {
     width: 100%;
@@ -9,18 +13,30 @@ body {
     justify-content: center;
     text-decoration: none;
     margin: 0;
-    background-color: rgb(51, 152, 192);
+    
+}
+.Cafesoso {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.div1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 button {
     background-color: crimson;
     color: #fff;
-    font-size: 40px;
     font-weight: bold;
+    font-size: 2.4vh;
     text-align: center;
-    border: 1px solid;
+    border: 2px solid rgb(0, 0, 0);
     padding: 30px;
-    width: auto;
-    margin: auto;
+    height: 15vw;
+    width: 22vh;
+    margin: 10px;
     border-radius: 10px;
     
 }
